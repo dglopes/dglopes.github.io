@@ -6,7 +6,7 @@ categories: posts
 ---
 
 ## Introducing Flex, a Jekyll theme
-##Negrito
+## Negrito
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
 
